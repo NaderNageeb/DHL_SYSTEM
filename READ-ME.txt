@@ -1,0 +1,16 @@
+Login 
+
+
+
+Admin : 
+http://localhost/DHL_SYSTEM/admin/
+
+username : admin
+ pass : 123
+
+
+collector
+http://localhost/DHL_SYSTEM/collector/
+
+ username: osman 
+pass : 123
